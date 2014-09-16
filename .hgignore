@@ -1,0 +1,20 @@
+syntax: glob
+*.hex
+*.cp
+*.asm
+*.dbg
+Tetris.dct
+*.dct
+*.dlt
+*.log
+*.lst
+*_callertable.txt
+*.user.dic
+*.emcl
+*.c.ini
+*.h.ini
+*.bmk
+*.brk
+*.wch
+*.lst.ini
+*.ini

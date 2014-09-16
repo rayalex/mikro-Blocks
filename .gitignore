@@ -3,6 +3,9 @@
 *.ko
 *.obj
 *.elf
+*.emcl
+*.cp
+*.asm
 
 # Precompiled Headers
 *.gch
@@ -27,3 +30,12 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Others
+*.mcpar_callertable.txt
+*.dbg
+*.dct
+*.dlt
+*.log
+*.lst
+*.dic
