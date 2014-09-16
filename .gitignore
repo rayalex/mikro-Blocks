@@ -31,7 +31,7 @@
 *.x86_64
 *.hex
 
-# Others
+# Others/MikroE specifics
 *.mcpar_callertable.txt
 *.dbg
 *.dct
